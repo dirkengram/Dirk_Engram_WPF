@@ -6,7 +6,9 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379006520448" ignored="false" />
     <file path="/Industry_Index.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379008738803" ignored="false" />
-    <file path="/Industry_Script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379009559687" ignored="false" />
+    <file path="/Industry_Script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379017940871" ignored="false" />
+    <file path="/Personal.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379018868867" ignored="false" />
+    <file path="/Personal.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379019686936" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +37,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Industry_Script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Industry_Script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="38" selection-start="300" selection-end="300" vertical-scroll-proportion="0.14542936">
+            <state line="1" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Personal.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Expressions_Personal/Personal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="44" selection-start="103" selection-end="103" vertical-scroll-proportion="-2.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Personal.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="19" selection-start="508" selection-end="508" vertical-scroll-proportion="0.12465374">
+              <folding>
+                <element signature="e#0#163#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,12 +80,16 @@
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/Industry_Index.html" />
         <option value="$PROJECT_DIR$/js/Industry_Script.js" />
+        <option value="$PROJECT_DIR$/js/Personal.html" />
+        <option value="$PROJECT_DIR$/js/Personal.js" />
+        <option value="$PROJECT_DIR$/../Expressions_Personal/Personal.html" />
+        <option value="$PROJECT_DIR$/../Expressions_Personal/js/Personal.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
-    <option name="y" value="323" />
+    <option name="x" value="-36" />
+    <option name="y" value="210" />
     <option name="width" value="1420" />
     <option name="height" value="870" />
   </component>
@@ -81,7 +107,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -93,7 +119,20 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Expressions_Industry">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -102,27 +141,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Industry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Industry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Expressions_Personal/js" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Expressions_Personal/js" />
+      <recent name="$PROJECT_DIR$/../Expressions_Personal" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
@@ -148,13 +179,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="323" width="1420" height="870" extended-state="0" />
+    <frame x="-36" y="210" width="1420" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18754473" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982105" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.365068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -246,6 +277,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Industry_Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="40" selection-start="101" selection-end="101" vertical-scroll-proportion="-2.5">
@@ -253,10 +305,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
+    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/Personal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="300" selection-end="300" vertical-scroll-proportion="0.14542936">
+        <state line="4" column="44" selection-start="103" selection-end="103" vertical-scroll-proportion="-2.5">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="19" selection-start="508" selection-end="508" vertical-scroll-proportion="0.12465374">
+          <folding>
+            <element signature="e#0#163#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

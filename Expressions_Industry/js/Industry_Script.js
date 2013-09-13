@@ -1,4 +1,4 @@
-Dirk Engram  September 12 2013 Expressions
+//Dirk Engram  September 12 2013 Expressions
 
 var budget = prompt ("Please enter your budget amount");
 var expenses = prompt ("please enter amount of donations");

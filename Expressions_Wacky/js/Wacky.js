@@ -8,4 +8,6 @@ var Time = Months * Days * Minutes;
 alert("The amount of time you spend at the gym is" + Time + " minutes");
 console.log("The amount of time you spend at the gym is" + Time + " minutes");
 
+//This formula calculates the time spent at the gym each year.
+
 

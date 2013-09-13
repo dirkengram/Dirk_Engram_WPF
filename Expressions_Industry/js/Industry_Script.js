@@ -7,3 +7,4 @@ var balance = budget * jobs - expenses;
 console.log("Your account balance is" + " $" + balance);
 alert(balance);
 
+//This formula calculates the ending account balance at construction job.

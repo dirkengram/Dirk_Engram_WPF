@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379006520448" ignored="false" />
     <file path="/Industry_Index.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379008738803" ignored="false" />
-    <file path="/Industry_Script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379042732156" ignored="false" />
+    <file path="/Industry_Script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379042801559" ignored="false" />
     <file path="/Personal.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379018868867" ignored="false" />
     <file path="/Personal.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379019686936" ignored="false" />
     <file path="/Wacky.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379037555135" ignored="false" />
@@ -42,7 +42,7 @@
       <file leaf-file-name="Industry_Script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="12" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+            <state line="0" column="42" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -354,7 +354,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="12" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+        <state line="0" column="42" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

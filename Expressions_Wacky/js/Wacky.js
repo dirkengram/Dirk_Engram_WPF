@@ -5,3 +5,4 @@
  * Time: 9:52 PM
  * To change this template use File | Settings | File Templates.
  */
+var Meals = ["Breakfast" , "Lunch" , "Dinner"]

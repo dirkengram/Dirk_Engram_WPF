@@ -6,9 +6,11 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379006520448" ignored="false" />
     <file path="/Industry_Index.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379008738803" ignored="false" />
-    <file path="/Industry_Script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379017940871" ignored="false" />
+    <file path="/Industry_Script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379036921578" ignored="false" />
     <file path="/Personal.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379018868867" ignored="false" />
     <file path="/Personal.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379019686936" ignored="false" />
+    <file path="/Wacky.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379037555135" ignored="false" />
+    <file path="/Wacky.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379037598467" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
       <file leaf-file-name="Industry_Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Industry_Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="40" selection-start="101" selection-end="101" vertical-scroll-proportion="-2.5">
+            <state line="4" column="50" selection-start="110" selection-end="110" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -40,7 +42,7 @@
       <file leaf-file-name="Industry_Script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+            <state line="5" column="42" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -55,13 +57,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Personal.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Personal.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="19" selection-start="508" selection-end="508" vertical-scroll-proportion="0.12465374">
+            <state line="12" column="19" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#163#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wacky.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/Wacky.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wacky.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/js/Wacky.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.020775624">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,17 +99,21 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/Industry_Index.html" />
-        <option value="$PROJECT_DIR$/js/Industry_Script.js" />
         <option value="$PROJECT_DIR$/js/Personal.html" />
         <option value="$PROJECT_DIR$/js/Personal.js" />
         <option value="$PROJECT_DIR$/../Expressions_Personal/Personal.html" />
         <option value="$PROJECT_DIR$/../Expressions_Personal/js/Personal.js" />
+        <option value="$PROJECT_DIR$/js/Industry_Script.js" />
+        <option value="$PROJECT_DIR$/js/Wacky.js" />
+        <option value="$PROJECT_DIR$/js/Wacky.html" />
+        <option value="$PROJECT_DIR$/../Expressions_Wacky/Wacky.html" />
+        <option value="$PROJECT_DIR$/../Expressions_Wacky/js/Wacky.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-36" />
-    <option name="y" value="210" />
+    <option name="x" value="-4" />
+    <option name="y" value="48" />
     <option name="width" value="1420" />
     <option name="height" value="870" />
   </component>
@@ -126,10 +150,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Expressions_Industry">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -147,15 +167,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Expressions_Personal/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Expressions_Wacky/js" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Expressions_Wacky/js" />
+      <recent name="$PROJECT_DIR$/../Expressions_Wacky" />
       <recent name="$PROJECT_DIR$/../Expressions_Personal/js" />
       <recent name="$PROJECT_DIR$/../Expressions_Personal" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
   <component name="RunManager">
@@ -179,7 +200,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-36" y="210" width="1420" height="870" extended-state="0" />
+    <frame x="-4" y="48" width="1420" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -270,20 +291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="7" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/Personal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -298,10 +305,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Industry_Index.html">
+    <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="101" selection-end="101" vertical-scroll-proportion="-2.5">
+        <state line="5" column="42" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="19" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#163#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -312,12 +328,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
+    <entry file="file://$PROJECT_DIR$/js/Wacky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="508" selection-end="508" vertical-scroll-proportion="0.12465374">
-          <folding>
-            <element signature="e#0#163#0" expanded="false" />
-          </folding>
+        <state line="4" column="16" selection-start="77" selection-end="77" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Industry_Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="50" selection-start="110" selection-end="110" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/Wacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/js/Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.020775624">
+          <folding />
         </state>
       </provider>
     </entry>

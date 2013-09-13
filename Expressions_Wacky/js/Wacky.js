@@ -7,5 +7,7 @@
  */
 var Meals = ["Breakfast" , "Lunch" , "Dinner"]
 var breakfast = prompt ("How many calories were in your breakfast?");
-var lunch = prompt ("How many calories were in your lunch");
+var lunch = prompt ("How many calories were in your lunch?");
+var dinner = prompt ("How many calories were in your dinner?");
+
 

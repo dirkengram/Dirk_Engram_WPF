@@ -57,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Personal.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="84" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
+            <state line="8" column="84" selection-start="485" selection-end="485" vertical-scroll-proportion="0.16620499">
               <folding />
             </state>
           </provider>
@@ -75,10 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Wacky.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Wacky.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/js/Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="68" selection-start="487" selection-end="487" vertical-scroll-proportion="0.16620499">
+            <state line="8" column="68" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -345,16 +345,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
+    <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/js/Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="84" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
+        <state line="8" column="68" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/js/Wacky.js">
+    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="68" selection-start="487" selection-end="487" vertical-scroll-proportion="0.16620499">
+        <state line="8" column="84" selection-start="485" selection-end="485" vertical-scroll-proportion="0.16620499">
           <folding />
         </state>
       </provider>

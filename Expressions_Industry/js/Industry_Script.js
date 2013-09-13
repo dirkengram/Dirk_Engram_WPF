@@ -1,4 +1,4 @@
-//Prompt and Alert
+Dirk Engram
 var budget = prompt ("Please enter your budget amount");
 var expenses = prompt ("please enter amount of donations");
 var jobs = prompt ("Please enter the number of jobs");

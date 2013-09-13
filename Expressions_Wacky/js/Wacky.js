@@ -5,9 +5,6 @@
  * Time: 9:52 PM
  * To change this template use File | Settings | File Templates.
  */
-var Meals = ["Breakfast" , "Lunch" , "Dinner"]
-var breakfast = prompt ("How many calories were in your breakfast?");
-var lunch = prompt ("How many calories were in your lunch?");
-var dinner = prompt ("How many calories were in your dinner?");
+var TimeAtGym = ["Months" , "Days" , "Minutes"];
 
 

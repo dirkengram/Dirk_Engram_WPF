@@ -39,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Industry_Script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Industry_Script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="73" selection-start="405" selection-end="405" vertical-scroll-proportion="0.1869806">
+            <state line="9" column="73" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -57,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Personal.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
+            <state line="8" column="84" selection-start="485" selection-end="485" vertical-scroll-proportion="0.16620499">
               <folding />
             </state>
           </provider>
@@ -103,9 +103,9 @@
         <option value="$PROJECT_DIR$/js/Wacky.js" />
         <option value="$PROJECT_DIR$/js/Wacky.html" />
         <option value="$PROJECT_DIR$/../Expressions_Wacky/Wacky.html" />
-        <option value="$PROJECT_DIR$/../Expressions_Personal/js/Personal.js" />
         <option value="$PROJECT_DIR$/../Expressions_Wacky/js/Wacky.js" />
         <option value="$PROJECT_DIR$/js/Industry_Script.js" />
+        <option value="$PROJECT_DIR$/../Expressions_Personal/js/Personal.js" />
       </list>
     </option>
   </component>
@@ -345,16 +345,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
+    <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
+        <state line="9" column="73" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
+    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="73" selection-start="405" selection-end="405" vertical-scroll-proportion="0.1869806">
+        <state line="8" column="84" selection-start="485" selection-end="485" vertical-scroll-proportion="0.16620499">
           <folding />
         </state>
       </provider>

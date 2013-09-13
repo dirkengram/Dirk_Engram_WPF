@@ -5,3 +5,5 @@ var tax = prompt ("Please enter the average amount of taxes deducted from payche
 var payCheck = wage * hours - tax;
 console.log("The amount of money you should get paid is" + " $" + payCheck);
 alert(payCheck + " Dollars")
+
+//This formula calculates the amount of money taken home at the end of a pay period.

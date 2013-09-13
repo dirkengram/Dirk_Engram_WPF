@@ -6,3 +6,5 @@
  * To change this template use File | Settings | File Templates.
  */
 var Meals = ["Breakfast" , "Lunch" , "Dinner"]
+var breakfast = prompt ("How many calories were in your breakfast?");
+

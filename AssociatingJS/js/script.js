@@ -1,8 +1,17 @@
-//Conditional Logic - Ternary Operators
+//Conditional Logic - The if statement
 
-var age = 11;
-var book;
+var degFahren = Number (prompt ("Enter the degrees Fahrenheit",32));
+var degCent;
 
-//If the child is under 10, they get Green Eggs and Ham, otherwise they get The Time Machine
-book = (age < 10) ? "Green Eggs and Ham" : "The Time Machine";
-console.log(book);
+degCent = 5/9 * (degFahren - 32);
+
+console.log(degFahren + "\xB0 Fahrenheit is " + degCent + "\xB0 centigrade< br />");
+
+if (degCent < 0)
+{
+    console.log("That's below the freezing point of water");
+}
+
+if (degCent == 100)
+    console.log("That's the boiling point of water");
+

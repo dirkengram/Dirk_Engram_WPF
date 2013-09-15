@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Week3.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379212432648" ignored="false" />
     <file path="/index.html" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379212899033" ignored="false" />
-    <file path="/script.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379216392495" ignored="false" />
+    <file path="/script.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379218425250" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="36" selection-start="368" selection-end="368" vertical-scroll-proportion="0.51428574">
+            <state line="7" column="38" selection-start="226" selection-end="226" vertical-scroll-proportion="0.4861111">
               <folding />
             </state>
           </provider>
@@ -62,10 +62,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="212" />
-    <option name="y" value="292" />
+    <option name="x" value="128" />
+    <option name="y" value="592" />
     <option name="width" value="1059" />
-    <option name="height" value="498" />
+    <option name="height" value="364" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -124,7 +124,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="292" width="1059" height="498" extended-state="0" />
+    <frame x="128" y="592" width="1059" height="364" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -215,7 +215,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="368" selection-end="368" vertical-scroll-proportion="0.51428574">
+        <state line="7" column="38" selection-start="226" selection-end="226" vertical-scroll-proportion="0.4861111">
           <folding />
         </state>
       </provider>

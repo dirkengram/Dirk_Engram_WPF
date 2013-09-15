@@ -1,5 +1,9 @@
-//Prompt and Alert
+//Conditional Logic
 
-prompt("Enter your year of birth");
-console.log(prompt);
+var oldEnough = false;
 
+//if the child is old enough, print to the console "you can ride!"
+if(oldEnough){
+   //code performed if condition is true
+    console.log("You can ride the coaster!")
+}

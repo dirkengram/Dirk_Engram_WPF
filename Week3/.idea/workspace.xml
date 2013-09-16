@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Week3.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379212432648" ignored="false" />
     <file path="/index.html" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379212899033" ignored="false" />
-    <file path="/script.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379284867005" ignored="false" />
+    <file path="/script.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379295775035" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +44,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ch3_examp2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AssociatingJS/ch3_examp2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="53" selection-start="400" selection-end="400" vertical-scroll-proportion="0.8333333">
+            <state line="19" column="5" selection-start="382" selection-end="382" vertical-scroll-proportion="0.6944444">
               <folding />
             </state>
           </provider>
@@ -242,9 +251,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../AssociatingJS/ch3_examp2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="53" selection-start="400" selection-end="400" vertical-scroll-proportion="0.8333333">
+        <state line="19" column="5" selection-start="382" selection-end="382" vertical-scroll-proportion="0.6944444">
           <folding />
         </state>
       </provider>

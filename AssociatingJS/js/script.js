@@ -1,17 +1,23 @@
 //Conditional Logic - The if statement
 
-var degFahren = Number (prompt ("Enter the degrees Fahrenheit",32));
-var degCent;
+var myAge = Number (prompt ("Enter your age", 30));
 
-degCent = 5/9 * (degFahren - 32);
-
-console.log(degFahren + "\xB0 Fahrenheit is " + degCent + "\xB0 centigrade< br />");
-
-if (degCent < 0)
+if (myAge >= 0 && myAge <= 10)
 {
-    console.log("That's below the freezing point of water");
+    console.log("myAge is between 0 and 10<br />");
 }
 
-if (degCent == 100)
-    console.log("That's the boiling point of water");
+if ( !(myAge >= 0 && myAge <= 10))
+{
+    console.log("myAge is Not between 0 and 10<br />");
+}
 
+if ( myAge >= 80 || myAge <= 10)
+{
+    console.log("myAge is 80 or above OR 10 or below<br />");
+}
+
+if ( (myAge >= 30 && myAge <= 39) || (myAge >= 80 && myAge <= 89) )
+{
+    console.log("myAge is between 30 and 39 or myAge is between 80 and 89");
+}

@@ -6,6 +6,8 @@
  * To change this template use File | Settings | File Templates.
  */
 var age = prompt ("How old are you","21")
+var kidAge = prompt ("Please enter of child", "5")
+
 
 }
 }

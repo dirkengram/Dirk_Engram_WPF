@@ -12,4 +12,6 @@ var food;
 
 if(dogs < 2 || weight < 100){
     console.log("You will need one big bag of food per month");
-
+}else{ if( (dogs >= 2 && dogs <= 4) || (weight >= 100 && weight <= 150)){
+            console.log("You will need two big bags of dog food a month");
+}

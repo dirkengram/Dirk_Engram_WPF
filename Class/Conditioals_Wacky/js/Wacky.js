@@ -7,4 +7,4 @@
  */
 
 var curYear = prompt("Please Enter the current year", "2013");
-
+var yearBorn = prompt("Please Enter the year you were born", "1987");

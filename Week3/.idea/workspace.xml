@@ -7,6 +7,14 @@
     <file path="/Week3.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379212432648" ignored="false" />
     <file path="/index.html" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379212899033" ignored="false" />
     <file path="/script.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379295775035" ignored="false" />
+    <file path="/Conditionals.html" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379518060502" ignored="false" />
+    <file path="/Conditionals.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379519664325" ignored="false" />
+    <file path="/Industry.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379610015089" ignored="false" />
+    <file path="/Industry.html" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379608751612" ignored="false" />
+    <file path="/Personal.html" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379612631684" ignored="false" />
+    <file path="/Personal.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379615349633" ignored="false" />
+    <file path="/Wacky.html" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379618848981" ignored="false" />
+    <file path="/Wacky.js" changelist="3c28a006-9c71-4833-be16-441da4c7e0ee" time="1379619415309" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,76 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="Industry.html" pinned="false" current="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Industry/Industry.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="8" column="30" selection-start="118" selection-end="118" vertical-scroll-proportion="-5.0">
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="Industry.js" pinned="false" current="true" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Industry/js/Industry.js">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="8" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.07281554">
+                    <folding>
+                      <element signature="e#0#164#0" expanded="false" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="Personal.html" pinned="false" current="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Personal/Personal.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="4" column="35" selection-start="85" selection-end="85" vertical-scroll-proportion="-2.5">
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="Personal.js" pinned="false" current="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Personal/js/Personal.js">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="14" column="72" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+                    <folding>
+                      <element signature="e#0#163#0" expanded="false" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="Wacky.html" pinned="false" current="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../Class/Conditioals_Wacky/Wacky.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="4" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="-2.5">
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="Wacky.js" pinned="false" current="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../Class/Conditioals_Wacky/js/Wacky.js">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="14" column="21" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
+                    <folding>
+                      <element signature="e#0#163#0" expanded="false" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Week3" />
@@ -30,6 +108,24 @@
         <entry file="file://$PROJECT_DIR$/../AssociatingJS/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="4" column="46" selection-start="104" selection-end="104" vertical-scroll-proportion="-2.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Conditionals.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Class/Conditionals_worksheet/Conditionals.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Conditionals.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Class/Conditionals_worksheet/js/Conditionals.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="31" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -53,10 +149,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="382" selection-end="382" vertical-scroll-proportion="0.6944444">
+            <state line="19" column="5" selection-start="382" selection-end="382" vertical-scroll-proportion="1.476684">
               <folding />
             </state>
           </provider>
@@ -72,16 +168,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Week3.html" />
-        <option value="$PROJECT_DIR$/Week3.js" />
-        <option value="$PROJECT_DIR$/../AssociatingJS/index.html" />
-        <option value="$PROJECT_DIR$/../AssociatingJS/js/script.js" />
+        <option value="$PROJECT_DIR$/../AssociatingJS/Conditionals.html" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_worksheet/Conditionals.js" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_worksheet/Conditionals.html" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_worksheet/js/Conditionals.js" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_worksheet/js/Industry.html" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_worksheet/js/Industry.js" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_Industry/Industry.html" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_Industry/js/Personal.html" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_Personal/Personal.js" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_Personal/Personal.html" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_Personal/js/Personal.js" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_Personal/js/Wacky.html" />
+        <option value="$PROJECT_DIR$/../Class/Conditioals_Wacky/Wacky.js" />
+        <option value="$PROJECT_DIR$/../Class/Conditioals_Wacky/Wacky.html" />
+        <option value="$PROJECT_DIR$/../Class/Conditioals_Wacky/js/Wacky.js" />
+        <option value="$PROJECT_DIR$/../Class/Conditionals_Industry/js/Industry.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="133" />
-    <option name="y" value="234" />
+    <option name="x" value="82" />
+    <option name="y" value="108" />
     <option name="width" value="1059" />
     <option name="height" value="364" />
   </component>
@@ -126,12 +234,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AssociatingJS/js/script.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Class/Conditioals_Wacky/js" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../AssociatingJS" />
+      <recent name="$PROJECT_DIR$/../Class/Conditioals_Wacky/js" />
+      <recent name="$PROJECT_DIR$/../Class/Conditioals_Wacky" />
+      <recent name="$PROJECT_DIR$/../Expressions_Wacky" />
+      <recent name="$PROJECT_DIR$/../Class/Conditionals_Personal/js" />
+      <recent name="$PROJECT_DIR$/../Class/Conditionals_Personal" />
     </key>
   </component>
   <component name="RunManager">
@@ -155,7 +267,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="133" y="234" width="1059" height="364" extended-state="0" />
+    <frame x="82" y="108" width="1059" height="364" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -237,6 +349,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_worksheet/js/Conditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="31" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../AssociatingJS/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="46" selection-start="104" selection-end="104" vertical-scroll-proportion="-2.5">
@@ -251,7 +370,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AssociatingJS/ch3_examp2.html">
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_worksheet/js/Industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Industry/js/Personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_worksheet/Conditionals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/Wacky.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -260,8 +400,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="382" selection-end="382" vertical-scroll-proportion="0.6944444">
+        <state line="19" column="5" selection-start="382" selection-end="382" vertical-scroll-proportion="1.476684">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Industry/Industry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="118" selection-end="118" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Personal/Personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="35" selection-start="85" selection-end="85" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Personal/js/Wacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="82" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditioals_Wacky/Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditioals_Wacky/Wacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditioals_Wacky/js/Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#163#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Personal/js/Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="72" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#163#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Conditionals_Industry/js/Industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.07281554">
+          <folding>
+            <element signature="e#0#164#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -8,3 +8,6 @@
 
 var dogs = prompt("Enter the number of dogs you own", "1");
 var weight = prompt ("Enter the combined weight of dogs/dog","55");
+var food;
+
+

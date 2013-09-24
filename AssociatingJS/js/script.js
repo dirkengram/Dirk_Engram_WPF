@@ -1,23 +1,8 @@
-//Conditional Logic - The if statement
+//Dirk A.Engram Loops
 
-var myAge = Number (prompt ("Enter your age", 30));
+var b = 10; //setups the index
 
-if (myAge >= 0 && myAge <= 10)
-{
-    console.log("myAge is between 0 and 10<br />");
-}
-
-if ( !(myAge >= 0 && myAge <= 10))
-{
-    console.log("myAge is Not between 0 and 10<br />");
-}
-
-if ( myAge >= 80 || myAge <= 10)
-{
-    console.log("myAge is 80 or above OR 10 or below<br />");
-}
-
-if ( (myAge >= 30 && myAge <= 39) || (myAge >= 80 && myAge <= 89) )
-{
-    console.log("myAge is between 30 and 39 or myAge is between 80 and 89");
+while ( b > 0){ //checks the condition
+    console.log(b + ' kegs on the wall');
+    b--;  //increments or decrements the index
 }

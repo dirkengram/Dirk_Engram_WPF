@@ -4,7 +4,7 @@
     <list default="true" id="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" name="Default" comment="" />
     <ignored path="Expressions_Industry.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379006520448" ignored="false" />
+    <file path="/script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379980469771" ignored="false" />
     <file path="/Industry_Index.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379008738803" ignored="false" />
     <file path="/Industry_Script.js" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379042801559" ignored="false" />
     <file path="/Personal.html" changelist="e93b4cf7-2ed4-4ea4-9924-b1e35a047426" time="1379018868867" ignored="false" />
@@ -29,7 +29,26 @@
     <favorites_list name="Expressions_Industry" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AssociatingJS/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="61" selection-start="107" selection-end="107" vertical-scroll-proportion="-3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="46" selection-start="182" selection-end="182" vertical-scroll-proportion="0.2387268">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -51,14 +70,15 @@
         <option value="$PROJECT_DIR$/js/Industry_Script.js" />
         <option value="$PROJECT_DIR$/../Expressions_Personal/js/Personal.js" />
         <option value="$PROJECT_DIR$/../Expressions_Wacky/js/Wacky.js" />
+        <option value="$PROJECT_DIR$/../AssociatingJS/js/script.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
-    <option name="y" value="108" />
-    <option name="width" value="1059" />
-    <option name="height" value="364" />
+    <option name="x" value="208" />
+    <option name="y" value="196" />
+    <option name="width" value="1076" />
+    <option name="height" value="525" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -86,22 +106,22 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Industry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Expressions_Industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -144,13 +164,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="108" width="1059" height="364" extended-state="1" />
-    <editor active="false" />
+    <frame x="208" y="196" width="1076" height="525" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982105" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36389962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24976258" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3580247" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -226,16 +246,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/Industry_Script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="73" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Expressions_Personal/Personal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="44" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/Personal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="84" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0" />
@@ -304,6 +314,20 @@
     <entry file="file://$PROJECT_DIR$/Industry_Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="50" selection-start="110" selection-end="110" vertical-scroll-proportion="0.08595989" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AssociatingJS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="61" selection-start="107" selection-end="107" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="46" selection-start="182" selection-end="182" vertical-scroll-proportion="0.2387268">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

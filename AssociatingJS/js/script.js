@@ -1,8 +1,6 @@
 //Dirk A.Engram Functions Execution
 
-function outptMsg(){
-    console.log("Hello World");
-}
+var width = 5;
 
 function calcArea(){
     var width = 20;

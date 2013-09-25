@@ -1,11 +1,17 @@
-//Dirk A.Engram Functions - Returning Values
+//Dirk A.Engram Functions - Function vs Procedure
 
-var total = calcArea(30, 20);
-
-function calcArea(w, h){
-    var area = w * h;
-    return area; //function spitting the info out
+//this is a function
+function calcAreaF(width, height){
+    var area = width * height;
+    return area;
 }
-console.log(total);
+
+//This is procedure
+function calcAreaP(width, height){
+    var area = width * height;
+    console.log(area); //no return
+}
+
+
 
 

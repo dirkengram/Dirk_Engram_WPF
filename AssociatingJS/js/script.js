@@ -1,14 +1,12 @@
-//Dirk A.Engram Functions Execution
+//Dirk A.Engram Parameters and Arguments
 
-var width = 5;
-
-function calcArea(){
-    var width = 20;
-    var height = 30;
-    var area = width * height;
-    console.log(area);
+function dogYears(age){ //parameters
+    var dogYears = age * 7;
+    console.log("Sparky is " + dogYears + " years old.")
 }
+var age1 = 4
+dogYears(age1);//arguments
+dogYears(5);
 
-calcArea();
 
 

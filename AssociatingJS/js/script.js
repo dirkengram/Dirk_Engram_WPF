@@ -1,17 +1,11 @@
-//Dirk A.Engram Functions - Function vs Procedure
+//Dirk A.Engram Functions - Anonymous Functions
 
-//this is a function
-function calcAreaF(width, height){
+
+var calcArea = function(width, height){ //defining
+    //code the functions runs
     var area = width * height;
     return area;
 }
 
-//This is procedure
-function calcAreaP(width, height){
-    var area = width * height;
-    console.log(area); //no return
-}
-
-
-
+var a = calcArea(20,30); //invoking
 

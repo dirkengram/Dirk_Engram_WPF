@@ -9,3 +9,5 @@ var calcArea = function(width, height){ //defining
 
 var a = calcArea(20,30); //invoking
 
+console.log(a);
+

@@ -10,3 +10,4 @@
 confirm("First we must git the length in ft of each side of you house.");
 var sideOne = Number(prompt("What is the length in ft of the front side of your house?"));
 var sideTwo = Number(prompt("What is the length in ft of the left side of your house?"));
+var sideThree = Number(prompt("What is the length in ft of the right side of your house?"));

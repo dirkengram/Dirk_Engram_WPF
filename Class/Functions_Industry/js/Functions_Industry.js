@@ -8,4 +8,4 @@
 
 confirm("This program will check your eligibility to obtain a Georgia drivers license.");
 var age = Number(prompt("How old are you?"));
-
+var requirement =prompt("Have you had you Learners Permit for one year?");

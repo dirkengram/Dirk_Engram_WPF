@@ -15,3 +15,5 @@ var sideFour = Number(prompt("What is the length in ft of the back side of your 
 
 //Perimeter = side1 + side2 + side3 + side4
 
+calcPerimeter = function(sideOne, sideTwo, sideThree, sideFour){
+    var perimeter = sideOne + sideTwo + sideThree + sideFour;

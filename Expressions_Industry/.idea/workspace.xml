@@ -49,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functions_Personal.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Functions_Personal.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Class/Functions_Personal/js/Functions_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="55" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.8845209">
+            <state line="30" column="55" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#164#0" expanded="false" />
               </folding>
@@ -89,10 +89,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functions_Wacky.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Functions_Wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Class/Functions_Wacky/js/Functions_Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="65" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0">
+            <state line="16" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.36855036">
               <folding>
                 <element signature="e#0#163#0" expanded="false" />
               </folding>
@@ -123,9 +123,9 @@
         <option value="$PROJECT_DIR$/../Class/Functions_Personal/js/Functions_Wacky.html" />
         <option value="$PROJECT_DIR$/../Class/Functions_Wacky/Functions_Wacky.js" />
         <option value="$PROJECT_DIR$/../Class/Functions_Wacky/Functions_Wacky.html" />
-        <option value="$PROJECT_DIR$/../Class/Functions_Wacky/js/Functions_Wacky.js" />
         <option value="$PROJECT_DIR$/../Class/Functions_Industry/js/Functions_Industry.js" />
         <option value="$PROJECT_DIR$/../Class/Functions_Personal/js/Functions_Personal.js" />
+        <option value="$PROJECT_DIR$/../Class/Functions_Wacky/js/Functions_Wacky.js" />
       </list>
     </option>
   </component>
@@ -383,15 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Class/Functions_Wacky/js/Functions_Wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="65" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#163#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Class/Functions_Industry/js/Functions_Industry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="20" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0">
@@ -403,9 +394,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Class/Functions_Personal/js/Functions_Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="55" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.8845209">
+        <state line="30" column="55" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class/Functions_Wacky/js/Functions_Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.36855036">
+          <folding>
+            <element signature="e#0#163#0" expanded="false" />
           </folding>
         </state>
       </provider>

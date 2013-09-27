@@ -14,13 +14,5 @@ Body Fat Weight	Total bodyweight - Lean Body Mass
 Body Fat Percentage	(Body Fat Weight x 100) / total bodyweight */
 
 var factorOne = Number(prompt("What is your total body weight"));
-var factorTwo = Number(prompt("What is your waist measurement"));
-var bodyMass = ((factorOne * 1.082) + 94.42) - (factorTwo * 4.15);
-var bodyFat = factorOne - bodyMass;
 
-var calcBodyFatPercentage = function(){
-    var bodyFatPercentage = (bodyFat * 100) / factorOne ;
-    console.log("Your body is " + bodyFatPercentage + " percent fat.")
-};
-calcBodyFatPercentage();
 

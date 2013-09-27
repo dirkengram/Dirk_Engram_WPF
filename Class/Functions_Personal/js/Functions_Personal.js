@@ -28,4 +28,4 @@ calcPerimeter = function(sideOne, sideTwo, sideThree, sideFour){
         console.log("Your house is 400ft. and the same size as my house.");
     }
 };
-
+calcPerimeter(sideOne, sideTwo, sideThree, sideFour);

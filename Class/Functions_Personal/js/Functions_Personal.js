@@ -17,3 +17,5 @@ var sideFour = Number(prompt("What is the length in ft of the back side of your 
 
 calcPerimeter = function(sideOne, sideTwo, sideThree, sideFour){
     var perimeter = sideOne + sideTwo + sideThree + sideFour;
+    if(perimeter > 400){
+        console.log("Your house is " + perimeter + "ft. and bigger then my house.");

@@ -22,4 +22,5 @@ var calcBodyFatPercentage = function(){
     var bodyFatPercentage = (bodyFat * 100) / factorOne ;
     console.log("Your body is " + bodyFatPercentage + " percent fat.")
 };
+calcBodyFatPercentage();
 

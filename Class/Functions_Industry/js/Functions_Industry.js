@@ -19,4 +19,4 @@ var eligible = function(){
     console.log(license);
 };
 
-
+eligible();

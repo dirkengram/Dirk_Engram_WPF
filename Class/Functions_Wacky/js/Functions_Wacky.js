@@ -18,4 +18,8 @@ var factorTwo = Number(prompt("What is your waist measurement"));
 var bodyMass = ((factorOne * 1.082) + 94.42) - (factorTwo * 4.15);
 var bodyFat = factorOne - bodyMass;
 
+var calcBodyFatPercentage = function(){
+    var bodyFatPercentage = (bodyFat * 100) / factorOne ;
+    console.log("Your body is " + bodyFatPercentage + " percent fat.")
+};
 

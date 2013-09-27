@@ -14,5 +14,4 @@ Body Fat Weight	Total bodyweight - Lean Body Mass
 Body Fat Percentage	(Body Fat Weight x 100) / total bodyweight */
 
 var factorOne = Number(prompt("What is your total body weight"));
-
-
+var factorTwo = Number(prompt("What is your waist measurement"));

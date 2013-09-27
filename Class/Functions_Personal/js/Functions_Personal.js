@@ -1,10 +1,4 @@
-/**
- * Created with JetBrains WebStorm.
- * User: DirkEngram1
- * Date: 9/26/13
- * Time: 12:53 PM
- * To change this template use File | Settings | File Templates.
- */
+//Dirk A. Engram Sept. 26 Functions
 //This program will calculate the perimeter of your house and compare it to the perimeter of my house.
 
 confirm("First we must git the length in ft of each side of you house.");

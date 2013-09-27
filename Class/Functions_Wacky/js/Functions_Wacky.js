@@ -1,10 +1,4 @@
-/**
- * Created with JetBrains WebStorm.
- * User: DirkEngram1
- * Date: 9/26/13
- * Time: 3:20 PM
- * To change this template use File | Settings | File Templates.
- */
+//Dirk A. Engram Sept. 26 Functions
 
 confirm("This program will calculate your body fat percentage.");
 /* Factor 1	(Total body weight x 1.082) + 94.42

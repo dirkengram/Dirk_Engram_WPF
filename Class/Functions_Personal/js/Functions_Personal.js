@@ -24,4 +24,8 @@ calcPerimeter = function(sideOne, sideTwo, sideThree, sideFour){
             console.log("Your house is " + perimeter + "ft. and smaller then my house.");
         }
     }
+    if(perimeter === 400){
+        console.log("Your house is 400ft. and the same size as my house.");
+    }
+};
 
